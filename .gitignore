@@ -12,3 +12,4 @@ _deps
 
 # CMAKE build dir
 [bB]uild/
+thirdparty/
