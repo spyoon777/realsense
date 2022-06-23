@@ -12,4 +12,6 @@ _deps
 
 # CMAKE build dir
 [bB]uild/
+
+# Thirdparty library
 thirdparty/
