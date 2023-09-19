@@ -1,3 +1,5 @@
+# code by https://github.com/antoinelame/GazeTracking
+
 import pyrealsense2 as rs
 import numpy as np
 # import cv2
